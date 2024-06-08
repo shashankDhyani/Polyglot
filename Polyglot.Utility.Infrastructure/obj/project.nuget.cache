@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qaWh53uFSiNGwT0e49wFK9MeHT+DlRwPmpTKhhQCqlB7XBKQN0X0PCnwT6kHNT5Uewn5Zm8dyZkR2bzzyUJgLA==",
+  "success": true,
+  "projectFilePath": "C:\\shashank\\Work\\Projects\\Polyglot\\Polyglot.Utility.Infrastructure\\Polyglot.Utility.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shashank\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512"
+  ],
+  "logs": []
+}
